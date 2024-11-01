@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75fdb89750d16774aa6fb109e722c89a, type: 3}
+  m_Name: LeftRollEachDice
+  m_EditorClassIdentifier: 
+  actionGameObject: {fileID: 5991875813484071285, guid: ca8d6ce2c2f41e24db55a253f83bf27f, type: 3}
+  actionImage: {fileID: 21300000, guid: db790a4b81238b44089ea16fc9fe6754, type: 3}
+  actionName: Left Roll
+  actionDescription: Roll each dice left by one face.
+  revertActionGameObject: {fileID: 7007920239194962446, guid: d0e836adfea5aad429113ba4b41721f6, type: 3}

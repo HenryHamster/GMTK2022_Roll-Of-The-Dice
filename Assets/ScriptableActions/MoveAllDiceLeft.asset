@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75fdb89750d16774aa6fb109e722c89a, type: 3}
+  m_Name: MoveAllDiceLeft
+  m_EditorClassIdentifier: 
+  actionGameObject: {fileID: 8349960231908532771, guid: 8dad9c77ea881e14798644420600b1aa, type: 3}
+  actionImage: {fileID: 21300000, guid: ec190ecebce38fe4cb537b68a4ac2d08, type: 3}
+  actionName: Move Left
+  actionDescription: Moves all dice left by one dice and the leftmost die gets placed
+    on the right.
+  revertActionGameObject: {fileID: 6081426876659200111, guid: fd41ce0492b628b4abdd99d13ea3b33e, type: 3}
